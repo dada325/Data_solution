@@ -1,8 +1,6 @@
-### data_solution
+# data_solution
 find practical solutions to your coding problems in data science.
 
-
-# Project Name
 
 ## Description
 we understand the challenges and complexities that data scientists face while working on various projects. Our mission is to provide a comprehensive platform where data science enthusiasts and professionals can find practical solutions to their coding problems.
