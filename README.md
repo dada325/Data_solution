@@ -1,5 +1,6 @@
-# data_solution
-find practical solutions to your coding problems in data science.
+# Data Solution Code
+Find question to practise with.
+Find practical solutions to your coding problems in data science.
 
 
 ## Description
