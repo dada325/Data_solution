@@ -23,10 +23,6 @@ We want to cover a wide range of topics, including data preprocessing, data visu
     - Clustering
     - Dimensionality Reduction
     - Association Rule Learning
-- Reinforcement Learning
-    - Markov Decision Processes (MDPs)
-    - Q-Learning
-    - Policy Gradient Methods
 - Deep Learning
     - Convolutional Neural Networks (CNNs)
     - Recurrent Neural Networks (RNNs)
@@ -56,6 +52,43 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 - Adversarial Machine Learning
     - Adversarial Attacks
     - Adversarial Defenses
+- Reinforcement Learning
+    - Markov Decision Processes (MDPs)
+    - Q-Learning
+    - Deep Q-Networks (DQN)
+    - Policy Gradient Methods
+        - Proximal Policy Optimization (PPO)
+        - Trust Region Policy Optimization (TRPO)
+        - Advantage Actor-Critic (A2C)
+    - Monte Carlo Methods
+    - Temporal Difference Learning
+    - Multi-Armed Bandits
+    - Inverse Reinforcement Learning
+    - Hierarchical Reinforcement Learning
+    - Multi-Agent Reinforcement Learning
+    - Model-Based Reinforcement Learning
+    - Robotic Control with Reinforcement Learning
+    - Real-World Applications of Reinforcement Learning
+        - Game Playing (e.g., AlphaGo)
+        - Autonomous Driving
+        - Robotics
+        - Resource Management
+        - Dialogue Systems
+        - Finance and Trading
+        - Healthcare
+        - Recommendation Systems
+        - Energy Management
+        - Industrial Control Systems
+        - Education
+        - Simulations and Optimization
+        - Supply Chain Management
+        - Inventory Control
+        - Advertising and Marketing
+        - Adaptive User Interfaces
+        - Cybersecurity
+        - Internet of Things (IoT)
+        - Natural Language Processing (NLP) Tasks
+        - And many more!
 - AutoML (Automated Machine Learning)
     - Hyperparameter Optimization
     - Neural Architecture Search
