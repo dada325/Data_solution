@@ -1,4 +1,4 @@
-# data_solution
+### data_solution
 find practical solutions to your coding problems in data science.
 
 
@@ -9,7 +9,10 @@ we understand the challenges and complexities that data scientists face while wo
 
 we want to cover a wide range of topics, including data preprocessing, data visualization, machine learning algorithms, statistical analysis, deep learning, natural language processing, and more. We believe in hands-on learning, so you'll find plenty of interactive coding exercises and projects that allow you to apply your newfound knowledge.
 
-## Problem lists
+## Problem lists and sota solution
+
+
+
 ## Some of the topic that we want to include:
 
 - Mathmatic Problems
