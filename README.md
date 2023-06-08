@@ -12,61 +12,54 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 ## Problem lists and sota solution
 
-1. Supervised Learning
-   1.1 Regression
-   1.2 Classification
-   1.3 Time Series Analysis
-   1.4 Anomaly Detection
+## Machine Learning Tasks
 
-2. Unsupervised Learning
-   2.1 Clustering
-   2.2 Dimensionality Reduction
-   2.3 Association Rule Learning
+- Supervised Learning
+    - Regression
+    - Classification
+    - Time Series Analysis
+    - Anomaly Detection
+- Unsupervised Learning
+    - Clustering
+    - Dimensionality Reduction
+    - Association Rule Learning
+- Reinforcement Learning
+    - Markov Decision Processes (MDPs)
+    - Q-Learning
+    - Policy Gradient Methods
+- Deep Learning
+    - Convolutional Neural Networks (CNNs)
+    - Recurrent Neural Networks (RNNs)
+    - Generative Adversarial Networks (GANs)
+    - Transformer Networks
+- Natural Language Processing (NLP)
+    - Text Classification
+    - Named Entity Recognition (NER)
+    - Sentiment Analysis
+    - Machine Translation
+- Computer Vision
+    - Object Detection
+    - Image Segmentation
+    - Facial Recognition
+    - Pose Estimation
+- Recommender Systems
+    - Collaborative Filtering
+    - Content-Based Filtering
+    - Hybrid Approaches
+- Time Series Forecasting
+    - ARIMA Models
+    - Exponential Smoothing
+    - Long Short-Term Memory (LSTM) Networks
+- Transfer Learning
+    - Pretrained Models
+    - Fine-Tuning
+- Adversarial Machine Learning
+    - Adversarial Attacks
+    - Adversarial Defenses
+- AutoML (Automated Machine Learning)
+    - Hyperparameter Optimization
+    - Neural Architecture Search
 
-3. Reinforcement Learning
-   3.1 Markov Decision Processes (MDPs)
-   3.2 Q-Learning
-   3.3 Policy Gradient Methods
-
-4. Deep Learning
-   4.1 Convolutional Neural Networks (CNNs)
-   4.2 Recurrent Neural Networks (RNNs)
-   4.3 Generative Adversarial Networks (GANs)
-   4.4 Transformer Networks
-
-5. Natural Language Processing (NLP)
-   5.1 Text Classification
-   5.2 Named Entity Recognition (NER)
-   5.3 Sentiment Analysis
-   5.4 Machine Translation
-
-6. Computer Vision
-   6.1 Object Detection
-   6.2 Image Segmentation
-   6.3 Facial Recognition
-   6.4 Pose Estimation
-
-7. Recommender Systems
-   7.1 Collaborative Filtering
-   7.2 Content-Based Filtering
-   7.3 Hybrid Approaches
-
-8. Time Series Forecasting
-   8.1 ARIMA Models
-   8.2 Exponential Smoothing
-   8.3 Long Short-Term Memory (LSTM) Networks
-
-9. Transfer Learning
-   9.1 Pretrained Models
-   9.2 Fine-Tuning
-
-10. Adversarial Machine Learning
-    10.1 Adversarial Attacks
-     10.2 Adversarial Defenses
-
-11. AutoML (Automated Machine Learning)
-    11.1 Hyperparameter Optimization
-    11.2 Neural Architecture Search
 
 
 ## Table of Contents
