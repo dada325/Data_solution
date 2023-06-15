@@ -12,7 +12,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 ## Problem lists and sota solution
 
-## Machine Learning Tasks
+## Machine Learning 
 
 - Supervised Learning
 
@@ -47,7 +47,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 
 
-## Table of Contents
+## Main task
 
 - Mathmatic
 - Data Processing
