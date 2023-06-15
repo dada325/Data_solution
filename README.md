@@ -34,12 +34,12 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 - Reinforcement Learning
   1. The Intersection of Reinforcement Learning and other discipline
-      *Economics
-      *Psychology
-      *Neuroscience
-      *Computer Science
-      *Engineering
-      *Mathematic
+      * Economics
+      * Psychology
+      * Neuroscience
+      * Computer Science
+      * Engineering
+      * Mathematic
  
 
 - AutoML (Automated Machine Learning)
