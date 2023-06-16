@@ -64,7 +64,22 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)|LeCun et al| 2022 | 
 | [DreamerV3](https://arxiv.org/pdf/2301.04104.pdf)                                  | Hafner et al      | 2023|
 
-
+  3. Algorithm
+    * DP
+    * Monte Carlo Methods
+    * TD
+    * DQN
+    * REINFORCE
+    * PPO
+    * DDPG
+    * Finance
+    * Control
+    * Discretization
+  4. Projects
+    * Navigation
+    * Continous Control
+    * Tennis
+  6. 
 
 - AutoML (Automated Machine Learning)
 
