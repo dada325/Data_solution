@@ -61,6 +61,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 | [MBMF (Model-Based RL with Model-Free Fine-Tuning)](https://sites.google.com/view/mbmf)| Nagabandi et al  | 2017 |
 | [MBVE (Model-Based Value Expansion)](https://arxiv.org/abs/1803.00101)              | Feinberg et al    | 2018 |
 | [AlphaZero](https://arxiv.org/abs/1712.01815)                                      | Silver et al      | 2017 |
+| [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)|LeCun et al| 2022 | 
 | [DreamerV3](https://arxiv.org/pdf/2301.04104.pdf)                                  | Hafner et al      | 2023|
 
 
