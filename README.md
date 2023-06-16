@@ -50,17 +50,17 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 | [PPO (Proximal Policy Optimization)](https://arxiv.org/abs/1707.06347)              | Schulman et al    | 2017 |
 | [TRPO (Trust Region Policy Optimization)](https://arxiv.org/abs/1502.05477)         | Schulman et al    | 2015 |
 | [DDPG (Deep Deterministic Policy Gradient)](https://arxiv.org/abs/1509.02971)       | Lillicrap et al   | 2015 |
-| [TD3 (Twin Delayed DDPG)](URL)                         | Fujimoto et al    | 2018 |
-| [SAC (Soft Actor-Critic)](URL)                         | Haarnoja et al    | 2018 |
-| [DQN (Deep Q-Networks)](URL)                           | Mnih et al        | 2013 |
-| [C51 (Categorical 51-Atom DQN)](URL)                   | Bellemare et al   | 2017 |
-| [QR-DQN (Quantile Regression DQN)](URL)                | Dabney et al      | 2017 |
-| [HER (Hindsight Experience Replay)](URL)               | Andrychowicz et al| 2017 |
-| [World Models](URL)                                   | Ha and Schmidhuber| 2018 |
-| [I2A (Imagination-Augmented Agents)](URL)              | Weber et al       | 2017 |
-| [MBMF (Model-Based RL with Model-Free Fine-Tuning)](URL)| Nagabandi et al  | 2017 |
-| [MBVE (Model-Based Value Expansion)](URL)              | Feinberg et al    | 2018 |
-| [AlphaZero](URL)                                      | Silver et al      | 2017 |
+| [TD3 (Twin Delayed DDPG)](https://arxiv.org/abs/1802.09477)                         | Fujimoto et al    | 2018 |
+| [SAC (Soft Actor-Critic)](https://arxiv.org/abs/1801.01290)                         | Haarnoja et al    | 2018 |
+| [DQN (Deep Q-Networks)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)                           | Mnih et al        | 2013 |
+| [C51 (Categorical 51-Atom DQN)](https://arxiv.org/abs/1707.06887)                   | Bellemare et al   | 2017 |
+| [QR-DQN (Quantile Regression DQN)](https://arxiv.org/abs/1710.10044)               | Dabney et al      | 2017 |
+| [HER (Hindsight Experience Replay)](https://arxiv.org/abs/1707.01495)               | Andrychowicz et al| 2017 |
+| [World Models](https://worldmodels.github.io/)                                  | Ha and Schmidhuber| 2018 |
+| [I2A (Imagination-Augmented Agents)](https://arxiv.org/abs/1707.06203)              | Weber et al       | 2017 |
+| [MBMF (Model-Based RL with Model-Free Fine-Tuning)](https://sites.google.com/view/mbmf)| Nagabandi et al  | 2017 |
+| [MBVE (Model-Based Value Expansion)](https://arxiv.org/abs/1803.00101)              | Feinberg et al    | 2018 |
+| [AlphaZero](https://arxiv.org/abs/1712.01815)                                      | Silver et al      | 2017 |
 
 
 
