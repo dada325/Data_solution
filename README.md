@@ -41,6 +41,25 @@ We want to cover a wide range of topics, including data preprocessing, data visu
       * Engineering
       * Mathematic
  
+  2. 
+     | Algorithm | Authors | Year |
+|-----------|---------|------|
+| A2C / A3C (Asynchronous Advantage Actor-Critic) | Mnih et al | 2016 |
+| PPO (Proximal Policy Optimization) | Schulman et al | 2017 |
+| TRPO (Trust Region Policy Optimization) | Schulman et al | 2015 |
+| DDPG (Deep Deterministic Policy Gradient) | Lillicrap et al | 2015 |
+| TD3 (Twin Delayed DDPG) | Fujimoto et al | 2018 |
+| SAC (Soft Actor-Critic) | Haarnoja et al | 2018 |
+| DQN (Deep Q-Networks) | Mnih et al | 2013 |
+| C51 (Categorical 51-Atom DQN) | Bellemare et al | 2017 |
+| QR-DQN (Quantile Regression DQN) | Dabney et al | 2017 |
+| HER (Hindsight Experience Replay) | Andrychowicz et al | 2017 |
+| World Models | Ha and Schmidhuber | 2018 |
+| I2A (Imagination-Augmented Agents) | Weber et al | 2017 |
+| MBMF (Model-Based RL with Model-Free Fine-Tuning) | Nagabandi et al | 2017 |
+| MBVE (Model-Based Value Expansion) | Feinberg et al | 2018 |
+| AlphaZero | Silver et al | 2017 |
+
 
 - AutoML (Automated Machine Learning)
 
