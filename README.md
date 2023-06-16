@@ -44,7 +44,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
   2. 
 
 
-  | Algorithm                                       | Authors           | Year |
+| Algorithm                                       | Authors           | Year |
 |-------------------------------------------------|-------------------|------|
 | A2C / A3C (Asynchronous Advantage Actor-Critic) | Mnih et al        | 2016 |
 | PPO (Proximal Policy Optimization)              | Schulman et al    | 2017 |
