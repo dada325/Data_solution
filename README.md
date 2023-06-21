@@ -3,6 +3,38 @@ Find question to practise with.
 Find practical solutions to your coding problems in data science.
 
 
+## About this Page
+
+### Who is this for?
+
+**You:** Are a beginner in the field of machine learning or deep learning and would like to learn PyTorch.
+
+**This course:** Teaches you PyTorch and many machine learning concepts in a hands-on, code-first way.
+
+If you already have 1-year+ experience in machine learning, this course may help but it is specifically designed to be beginner-friendly.
+
+### What are the prerequisites?
+
+1. 3-6 months coding Python.
+2. At least one beginner machine learning course (however this might be able to be skipped, resources are linked for many different topics).
+3. Experience using Jupyter Notebooks or Google Colab (though you can pick this up as we go along).
+4. A willingness to learn (most important).
+
+### How is the course taught?
+
+
+### What will I get if I finish the course?
+
+
+
+### What will I build in the course?
+
+
+
+### How do I get started?
+
+
+
 ## Description
 When I first confront a problem of data science, I want to try to solve it with the knowledge from the book. But most of time it fails, the problem may be too complex and not easy to abstract to a computer problem. 
 
