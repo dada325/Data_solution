@@ -50,7 +50,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
   0. The Basic
   
   
-  1. The Intersection of Reinforcement Learning and other discipline
+ 1. The Intersection of Reinforcement Learning and other discipline
       * Economics
       * Psychology
       * Neuroscience
@@ -58,7 +58,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
       * Engineering
       * Mathematic
  
-  2. Some of the Paper reviews
+ 2. Some of the Paper reviews
 
 
 | Algorithm                                       | Authors           | Year |
