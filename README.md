@@ -68,7 +68,10 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 | SpinningUp | VPG, PPO, TRPO, DDPG, TD3, SAC | ✔️ | ✔️ | OpenAI Gym | Partial | ❌ | ✔️ |
 
 
+For a detailed overview of each library, please refer to the [original article](https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python).
 
+Conclusion
+The choice of library depends on your specific needs and requirements. Some libraries like RL_Coach and RLlib offer a wide range of algorithms and are regularly updated. Others like KerasRL and Pyqlearning have limited features but are easy to understand and use. TFAgents and Stable Baselines are promising libraries with a great set of algorithms and active development. Dopamine and SpinningUp are designed for fast prototyping and are highly customizable.
 
 
  1. The Intersection of Reinforcement Learning and other discipline
