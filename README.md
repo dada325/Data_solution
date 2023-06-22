@@ -5,20 +5,6 @@ Find practical solutions to your coding problems in data science.
 
 ## About this Page
 
-### Who is this for?
-
- you are a beginner in the field of machine learning or deep learning and would like to search for Algorithm of deep learning.
-
-
-
-### What are the prerequisites?
-
-1. 3-6 months coding Python.
-2. Some beginner machine learning course.
-3. Some basis knowledge of Mathematic Analysis.
-4. A willingness to get your hands dirty.
-
-### How is the course taught?
 
 
 
@@ -35,10 +21,8 @@ We understand the challenges and complexities that data scientists face while wo
 
 We want to cover a wide range of topics, including data preprocessing, data visualization, machine learning algorithms, statistical analysis, deep learning, natural language processing, Reinforcement learning and more. We believe in hands-on learning, so you'll find plenty of interactive coding exercises and projects that allow you to apply your newfound knowledge. Now the Contents is still Work in progress.
 
-## Problem lists and sota solution
-
-
-
+## Status:
+ now WIP is the section of Reinforcement learning, so please feel free to fork of other section. 
 
 ## Machine Learning 
 
