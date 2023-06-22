@@ -44,7 +44,11 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 - Adversarial Machine Learning
 
+- AutoML (Automated Machine Learning)
+
 - Reinforcement Learning
+  0. The Basic
+  
   1. The Intersection of Reinforcement Learning and other discipline
       * Economics
       * Psychology
@@ -53,7 +57,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
       * Engineering
       * Mathematic
  
-  2. Some Paper reviews
+  2. Some of the Paper reviews
 
 
 | Algorithm                                       | Authors           | Year |
@@ -76,7 +80,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)|LeCun et al| 2022 | 
 | [DreamerV3](https://arxiv.org/pdf/2301.04104.pdf)                                  | Hafner et al      | 2023|
 
-  3. Algorithm
+  3. Model & Algorithm
       * DP
       * Monte Carlo Methods
       * TD
@@ -87,13 +91,13 @@ We want to cover a wide range of topics, including data preprocessing, data visu
       * Finance
       * Control
       * Discretization
-  4. Projects
+  4. Task
       * Navigation
       * Continous Control
-      * Tennis
-  6. 
+      * 
+  5. Case Study
 
-- AutoML (Automated Machine Learning)
+
 
 
 
@@ -109,7 +113,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 ## Reading
 
-Information on how to use the project or any relevant usage examples.
+
 
 ## Contributing
 
