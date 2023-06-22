@@ -51,27 +51,28 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
  0. The Basic
 
- ####Some of the library
- 1. [OpenAI Baselines](https://github.com/openai/baselines)
-2. [Stable Baselines](https://github.com/DLR-RM/stable-baselines3)
-3. [TF Agents](https://github.com/tensorflow/agents)
-4. [Keras-RL](https://github.com/keras-rl/keras-rl)
-5. [Keras-RL2](https://github.com/wau/keras-rl2)
-6. [PyQlearning](https://github.com/chimera0/accel-brain-code/tree/master/Reinforcement-Learning)
-7. [Tensorforce](https://github.com/tensorforce/tensorforce)
-8. [RL Coach](https://github.com/NervanaSystems/coach)
-9. [Chainer RL](https://github.com/chainer/chainerrl)
-10. [Mushroom RL](https://github.com/MushroomRL/mushroom-rl)
-11. [Acme](https://github.com/deepmind/acme)
-12. [Dopamine](https://github.com/google/dopamine)
-13. [RLLib](https://github.com/ray-project/ray)
-14. [TRFL](https://github.com/deepmind/trfl)
-15. [ReAgent](https://github.com/facebookresearch/ReAgent)
-16. [MAgent](https://github.com/PettingZoo-Team/MAgent)
-17. [SLM Lab](https://github.com/kengz/SLM-Lab)
-18. [DeeR](https://github.com/VinF/deer)
-19. [Spinning Up](https://github.com/openai/spinningup)
-20. [Surreal](https://github.com/SurrealAI/surreal)
+ ###Some of the library
+| Library Name | Description |
+| --- | --- |
+| [OpenAI Baselines](https://github.com/openai/baselines) | OpenAI Baselines offers implementations of various RL algorithms. It supports training the model and also supports a logger to help visualize the training metrics. |
+| [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) | A fork of OpenAI Baseline library with improvements. It offers additional algorithms Soft Actor-Critic (SAC) and Twin Delayed DDPG (TD3) and supports Tensorboard. |
+| [TF Agents](https://github.com/tensorflow/agents) | A Tensorflow library for reinforcement learning that provides various RL components that can be easily used or modified as per needs. |
+| [Keras-RL](https://github.com/keras-rl/keras-rl) | A deep reinforcement learning library for Keras that has implementations of state-of-art RL algorithms. |
+| [Keras-RL2](https://github.com/wau/keras-rl2) | A fork of the Keras-RL library that supports Tensorflow 2 in the original Keras-RL library. |
+| [PyQlearning](https://github.com/chimera0/accel-brain-code/tree/master/Reinforcement-Learning) | A reinforcement learning library that focuses on Q Learning. It supports both deep Q learning and multi-agent deep Q learning. |
+| [Tensorforce](https://github.com/tensorforce/tensorforce) | An open-source deep reinforcement learning library built on top of the Tensorflow library. |
+| [RL Coach](https://github.com/NervanaSystems/coach) | Reinforcement Learning Coach is a reinforcement learning library created by Intel AI Lab to provide implementations of various state-of-art RL algorithms. |
+| [Chainer RL](https://github.com/chainer/chainerrl) | A reinforcement library built on the deep learning framework Chainer to implement various state-of-art RL algorithms. |
+| [Mushroom RL](https://github.com/MushroomRL/mushroom-rl) | A Python library for reinforcement learning that is simple yet powerful to run various RL algorithms. |
+| [Acme](https://github.com/deepmind/acme) | A reinforcement learning framework created by Deepmind targeted more towards researchers to help in rapid prototyping and develop novel RL algorithms. |
+| [Dopamine](https://github.com/google/dopamine) | A Google reinforcement learning framework to help researchers with the fast prototyping of RL algorithms. |
+| [RLlib](https://github.com/ray-project/ray) | A reinforcement learning library that provides high scalability and a unified API for a variety of RL applications. |
+| [TRFL](https://github.com/deepmind/trfl) | A Tensorflow based reinforcement learning framework that offers various building blocks for writing RL algorithms. |
+| [ReAgent](https://github.com/facebookresearch/ReAgent) | A Facebook framework for reinforcement learning which offers various RL algorithms and supports data preprocessing, feature transformation, distributed training, counterfactual policy evaluation, and optimized serving. |
+| [MAgent](https://github.com/PettingZoo-Team/MAgent) | Supports multiple agents and can let you scale from hundreds to millions of agents. |
+| [SLM Lab](https://github.com/slm-lab/slm-lab) | A reinforcement learning framework that offers modular components for flexible experimentations and reproducibility. |
+| [DeeR](https://github.com/VictorPierre/DeeR) |
+
 
  1. The Intersection of Reinforcement Learning and other discipline
       * Economics
