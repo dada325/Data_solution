@@ -113,9 +113,7 @@ We want to cover a wide range of topics, including data preprocessing, data visu
       * REINFORCE
       * PPO
       * DDPG
-      * Finance
-      * Control
-      * Discretization
+      
   4. Task
       * Navigation
       * Continous Control
