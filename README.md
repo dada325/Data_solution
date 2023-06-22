@@ -24,29 +24,29 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 ## Status:
  now WIP is the section of Reinforcement learning, so please feel free to fork of other section. 
 
-## Machine Learning 
+# Machine Learning 
 
-- Supervised Learning
+## Supervised Learning
 
-- Unsupervised Learning
+## Unsupervised Learning
 
-- Deep Learning
+## Deep Learning
 
-- Natural Language Processing (NLP)
+## Natural Language Processing (NLP)
 
-- Computer Vision
+## Computer Vision
 
-- Recommender Systems
+## Recommender Systems
 
-- Time Series Forecasting
+## Time Series Forecasting
 
-- Transfer Learning
+## Transfer Learning
 
-- Adversarial Machine Learning
+## Adversarial Machine Learning
 
-- AutoML (Automated Machine Learning)
+## AutoML (Automated Machine Learning)
 
-- Reinforcement Learning.
+## Reinforcement Learning.
 
 
  0. The Basic
