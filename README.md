@@ -134,7 +134,26 @@ The choice of library depends on your specific needs and requirements. Some libr
 - Reinforcement Learning
 
 
-## Reading
+## Learning JAX 
+
+| Name | Maintainer | Summary | Link |
+| --- | --- | --- | --- |
+| Flax | Google Brain | A high-level neural network library designed for flexibility. | [Flax](https://github.com/google/flax) |
+| Haiku | Deepmind | A JAX-based neural network library, aka Sonnet for JAX. | [Haiku](https://github.com/deepmind/dm-haiku) |
+| Trax | Google Brain | An end-to-end library for deep learning that focuses on clear code and speed. | [Trax](https://github.com/google/trax) |
+| Objax | Google | A minimalist object-oriented framework with a PyTorch-like interface. | [Objax](https://github.com/google/objax) |
+| Stax | JAX | A small but flexible neural net specification library from scratch. | [Stax](https://jax.readthedocs.io/en/latest/jax.experimental.stax.html) |
+| Elegy | PoetsAI | A Neural Networks framework based on Jax and inspired by Keras. | [Elegy](https://github.com/poets-ai/elegy) |
+| Mesh Transformer JAX | kingoflolz | The framework which was used to build the recent GPT-J-6B language model. | [Mesh Transformer JAX](https://github.com/kingoflolz/mesh-transformer-jax) |
+| Swarm JAX | kingoflolz | Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes. | [Swarm JAX](https://github.com/kingoflolz/swarm-jax) |
+| RLax | Deepmind | Building blocks for implementing reinforcement learning agents. | [RLax](https://github.com/deepmind/rlax) |
+| Coax | Microsoft | A modular Reinforcement Learning (RL) python package for solving OpenAI Gym environments with JAX-based function approximations. | [Coax](https://github.com/microsoft/coax) |
+| Optax | Deepmind | A gradient processing and optimization library for JAX. | [Optax](https://github.com/deepmind/optax) |
+| Chex | Deepmind | A library of utilities for helping to write reliable JAX code. | [Chex](https://github.com/deepmind/chex) |
+| Jraph | Deepmind | A lightweight library for working with graph neural networks in JAX. | [Jraph](https://github.com/deepmind/jraph) |
+| JAX, M.D. | Google | A Framework for Differentiable Physics. | [JAX, M.D.](https://github.com/google/jax-md) |
+| Oryx | Google? | A library for probabilistic programming and deep learning built on top of Jax. | [Oryx](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) |
+
 
 
 
