@@ -50,8 +50,29 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 
  0. The Basic
-  
-  
+
+ ####Some of the library
+ 1. [OpenAI Baselines](https://github.com/openai/baselines)
+2. [Stable Baselines](https://github.com/DLR-RM/stable-baselines3)
+3. [TF Agents](https://github.com/tensorflow/agents)
+4. [Keras-RL](https://github.com/keras-rl/keras-rl)
+5. [Keras-RL2](https://github.com/wau/keras-rl2)
+6. [PyQlearning](https://github.com/chimera0/accel-brain-code/tree/master/Reinforcement-Learning)
+7. [Tensorforce](https://github.com/tensorforce/tensorforce)
+8. [RL Coach](https://github.com/NervanaSystems/coach)
+9. [Chainer RL](https://github.com/chainer/chainerrl)
+10. [Mushroom RL](https://github.com/MushroomRL/mushroom-rl)
+11. [Acme](https://github.com/deepmind/acme)
+12. [Dopamine](https://github.com/google/dopamine)
+13. [RLLib](https://github.com/ray-project/ray)
+14. [TRFL](https://github.com/deepmind/trfl)
+15. [ReAgent](https://github.com/facebookresearch/ReAgent)
+16. [MAgent](https://github.com/PettingZoo-Team/MAgent)
+17. [SLM Lab](https://github.com/kengz/SLM-Lab)
+18. [DeeR](https://github.com/VinF/deer)
+19. [Spinning Up](https://github.com/openai/spinningup)
+20. [Surreal](https://github.com/SurrealAI/surreal)
+
  1. The Intersection of Reinforcement Learning and other discipline
       * Economics
       * Psychology
