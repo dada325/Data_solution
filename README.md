@@ -7,11 +7,9 @@ Find practical solutions to your coding problems in data science.
 
 ### Who is this for?
 
-**You:** Are a beginner in the field of machine learning or deep learning and would like to Algorithm of deep learning.
+ you are a beginner in the field of machine learning or deep learning and would like to search for Algorithm of deep learning.
 
-**This course:** Teaches you PyTorch and many machine learning concepts in a hands-on, code-first way.
 
-If you already have 1-year+ experience in machine learning, this course may help but it is specifically designed to be beginner-friendly.
 
 ### What are the prerequisites?
 
@@ -23,15 +21,10 @@ If you already have 1-year+ experience in machine learning, this course may help
 ### How is the course taught?
 
 
-### What will I get if I finish the course?
+
+### What will I build in this page?
 
 
-
-### What will I build in the course?
-
-
-
-### How do I get started?
 
 
 
