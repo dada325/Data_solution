@@ -108,65 +108,20 @@ The choice of library depends on your specific needs and requirements. Some libr
   3. Model & Algorithm
       First I will interpret the algorithm in the book "Reinforcement learning: an Introduction"
 
-     Chapter | Algorithms
--------------------------------------------------
-2: Multi-armed Bandits | 
-  - Epsilon-Greedy Algorithm 
-  - Upper-Confidence-Bound Action Selection
-
-3: Finite Markov Decision Processes | 
-  - Policy Iteration 
-  - Value Iteration
-
-4: Dynamic Programming |
-  - Iterative Policy Evaluation 
-  - Policy Improvement 
-  - Policy Iteration 
-  - Value Iteration
-
-5: Monte Carlo Methods | 
-  - First-Visit Monte Carlo Policy Evaluation 
-  - Monte Carlo Exploring Starts 
-  - On-Policy First-Visit MC Control (for epsilon-soft policies)
-
-6: Temporal-Difference Learning | 
-  - TD(0) 
-  - Sarsa (on-policy TD control) 
-  - Q-learning (off-policy TD control)
-
-7: n-step Bootstrapping | 
-  - n-step TD 
-  - n-step Sarsa 
-  - n-step Off-policy Learning by Importance Sampling
-
-8: Planning and Learning with Tabular Methods | 
-  - Dyna-Q 
-  - Dyna-Q+
-
-9: On-policy Prediction with Approximation | 
-  - Gradient Monte Carlo Algorithm 
-  - Semi-gradient TD(0)
-
-10: On-policy Control with Approximation | 
-  - Episodic Semi-gradient Sarsa 
-  - Semi-gradient n-step Sarsa
-
-11: Off-policy Methods with Approximation | 
-  - Semi-gradient DP 
-  - Semi-gradient Q(σ) 
-  - Differential Semi-gradient Sarsa
-
-12: Eligibility Traces | 
-  - TD(λ) 
-  - Sarsa(λ) 
-  - True Online TD(λ) 
-  - True Online Sarsa(λ)
-
-13: Policy Gradient Methods | 
-  - REINFORCE: Monte Carlo Policy Gradient 
-  - Actor-Critic 
-  - REINFORCE with Baseline 
-  - Actor-Critic with Baseline
+| Chapter | Algorithms |
+| ------- | ---------- |
+| 2: Multi-armed Bandits | - Epsilon-Greedy Algorithm <br> - Upper-Confidence-Bound Action Selection |
+| 3: Finite Markov Decision Processes | - Policy Iteration <br> - Value Iteration |
+| 4: Dynamic Programming | - Iterative Policy Evaluation <br> - Policy Improvement <br> - Policy Iteration <br> - Value Iteration |
+| 5: Monte Carlo Methods | - First-Visit Monte Carlo Policy Evaluation <br> - Monte Carlo Exploring Starts <br> - On-Policy First-Visit MC Control (for epsilon-soft policies) |
+| 6: Temporal-Difference Learning | - TD(0) <br> - Sarsa (on-policy TD control) <br> - Q-learning (off-policy TD control) |
+| 7: n-step Bootstrapping | - n-step TD <br> - n-step Sarsa <br> - n-step Off-policy Learning by Importance Sampling |
+| 8: Planning and Learning with Tabular Methods | - Dyna-Q <br> - Dyna-Q+ |
+| 9: On-policy Prediction with Approximation | - Gradient Monte Carlo Algorithm <br> - Semi-gradient TD(0) |
+| 10: On-policy Control with Approximation | - Episodic Semi-gradient Sarsa <br> - Semi-gradient n-step Sarsa |
+| 11: Off-policy Methods with Approximation | - Semi-gradient DP <br> - Semi-gradient Q(σ) <br> - Differential Semi-gradient Sarsa |
+| 12: Eligibility Traces | - TD(λ) <br> - Sarsa(λ) <br> - True Online TD(λ) <br> - True Online Sarsa(λ) |
+| 13: Policy Gradient Methods | - REINFORCE: Monte Carlo Policy Gradient <br> - Actor-Critic <br> - REINFORCE with Baseline <br> - Actor-Critic with Baseline |
 
       
   5. Task
