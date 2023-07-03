@@ -51,23 +51,6 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
  0. The Basic
 
- ### Some of the library
- 
-
- | Library | SOTA RL Algorithms | Documentation & Tutorials | Code Customization | Supported Environments | Logging & Tracking Tools | VE Feature | Regular Updates |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| KerasRL | ✔️ | Partial | ✔️ | Limited | Partial | ✔️ | ❌ |
-| Pyqlearning | Limited | Partial | Partial | ✔️ | ❌ | ❌ | ✔️ |
-| Tensorforce | Almost all | ✔️ | ✔️ | Multiple | ✔️ | ✔️ | ✔️ |
-| RL_Coach | Most complete | ✔️ | Partial | Multiple | ✔️ | ✔️ | ✔️ |
-| TFAgents | Great set | Partial | ✔️ | Agnostic | ✔️ | ✔️ | ✔️ |
-| Stable Baselines | Great set | ✔️ | Partial | OpenAI Gym | ✔️ | ✔️ | ✔️ |
-| MushroomRL | Good set | Partial | Partial | Multiple | ✔️ | ✔️ | ✔️ |
-| RLlib | All | ✔️ | Partial | Multiple | ✔️ | ✔️ | ✔️ |
-| Dopamine | DQN based | ✔️ | ✔️ | OpenAI Gym | ✔️ | ❌ | ✔️ |
-| SpinningUp | VPG, PPO, TRPO, DDPG, TD3, SAC | ✔️ | ✔️ | OpenAI Gym | Partial | ❌ | ✔️ |
-
-
 For a detailed overview of each library, please refer to the [original article](https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python).
 
 Conclusion
@@ -81,22 +64,12 @@ The choice of library depends on your specific needs and requirements. Some libr
       * Computer Science
       * Engineering
       * Mathematic
- 
- 2. Some of the Paper reviews
-
-
-
-
       
   3. Task
       * Navigation
       * Continous Control
       * 
   4. Case Study
-
-
-
-
 
 
 ## Main task
