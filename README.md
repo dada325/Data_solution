@@ -26,12 +26,6 @@ We want to cover a wide range of topics, including data preprocessing, data visu
 
 # Machine Learning 
 
-## Supervised Learning
-
-## Unsupervised Learning
-
-## Deep Learning
-
 ## Natural Language Processing (NLP)
 
 ## Computer Vision
